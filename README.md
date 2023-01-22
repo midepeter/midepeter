@@ -1,5 +1,5 @@
 - 👋 Hi, I’m peter
-- 👀 I’m interested in golang, cloud, distributed systems, control systems and eVTOLs
+- 👀 I’m interested in golang,rust, cloud, distributed systems, control systems and eVTOLs
 - 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on opensource projects, developer tools, startup ideas
 - 📫 How to reach me mosadomipeter@gmail.com
